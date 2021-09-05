@@ -3,7 +3,6 @@
     <string name="button_label_monto">Monto</string>
     <string name="button_label_ingreso">Ingreso</string>
     <string name="button_label_egreso">Egreso</string>
-    <string name="count_initial_value">0</string>
     <string name="toast_message">Hola crack!</string>
     <string name="text_title_income">Monto a ingresar</string>
 </resources>
